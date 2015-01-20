@@ -1,0 +1,8 @@
+begin job
+Total # events: 10000
+Total # events triggered by HLT_Mu17_Mu8_v : 6339
+Total # events triggered by HLT_Mu17_Mu8_v with offline/l3 muon matchings: 3396
+Total # events where offline muon make a vertex: 3389
+Total # events triggered by HLT_Mu17_Mu8_v with vertex: 3389
+Fraction of HLT_Mu17_Mu8_v : 0.6339
+Filtered events: 10000 ==> 10000 -> 10000 -> 10000 -> 10000 ==> 6339
